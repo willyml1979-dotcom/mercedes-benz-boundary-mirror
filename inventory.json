@@ -1,0 +1,141 @@
+{
+  "dealership": "Mercedes Benz Boundary",
+  "generated_at": "2026-09-25T16:13:33",
+  "vehicle_count": 12,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "CLA 250 4MATIC Coupe2025 Mercedes-Benz",
+      "vin": "W1K5J4HB8SN517865",
+      "stock": "MB13100",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/0ea972bb5f74.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id39236144",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id39236144?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:03:35",
+      "odometer_km": 3191,
+      "condition": "used"
+    },
+    {
+      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
+      "vin": "W1K5J4HB3SN516252",
+      "stock": "6B0252A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/3aece4f0a2af.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id38478851",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id38478851?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:03:51",
+      "odometer_km": 17251,
+      "condition": "used"
+    },
+    {
+      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
+      "vin": "W1K5J4HB7SN514245",
+      "stock": "MB11815",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/4a6f022e37ae.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id39124424",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla250/2025-mercedes-benz-cla250-id39124424?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:04:07",
+      "odometer_km": 12149,
+      "condition": "used"
+    },
+    {
+      "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1K5J4HB9TN595802",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/174038cb513f.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39237667",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39237667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:04:22",
+      "odometer_km": 12200,
+      "condition": "used"
+    },
+    {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB6SN129403",
+      "stock": "MB11810",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/ab2cd3d7c0c9.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id38340871",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id38340871?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:04:39",
+      "odometer_km": 17605,
+      "condition": "used"
+    },
+    {
+      "name": "EQS AMG 4MATIC+ Sedan2024 Mercedes-Benz",
+      "vin": "W1KCG5FB0RA046035",
+      "stock": "MB11807",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/9af253561c65.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/eqs-amg/2024-mercedes-benz-eqs-amg-id38049142",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/eqs-amg/2024-mercedes-benz-eqs-amg-id38049142?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:04:55",
+      "odometer_km": 3720,
+      "condition": "used"
+    },
+    {
+      "name": "G63 AMG SUV2026 Mercedes-Benz",
+      "vin": "W1NWH5AB8TX065070",
+      "stock": "MB12B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/a4db6dc1b40e.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39056163",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/g63-amg/2026-mercedes-benz-g63-amg-id39056163?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:05:10",
+      "odometer_km": 5076,
+      "condition": "used"
+    },
+    {
+      "name": "GLA250 SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ768216",
+      "stock": "MB12A00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/dc0c8d782caf.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id38784443",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id38784443?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:05:26",
+      "odometer_km": 19229,
+      "condition": "used"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1NKM4HBXSF329680",
+      "stock": "6T7452A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/2028a807c99e.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/glc300/2025-mercedes-benz-glc300-id38330274",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/glc300/2025-mercedes-benz-glc300-id38330274?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:05:40",
+      "odometer_km": 9055,
+      "condition": "used"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB6TF512902",
+      "stock": "6T3111A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/5a98fa525cd4.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id38853566",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id38853566?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:05:55",
+      "odometer_km": 2418,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "4JGFB5KB4SB385033",
+      "stock": "6T3432A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/e72d632b616a.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39080525",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39080525?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:06:11",
+      "odometer_km": 8110,
+      "condition": "used"
+    },
+    {
+      "name": "S580 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1K6G7GBXTA345952",
+      "stock": "MB11815",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/aff4ef927539.html",
+      "source_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/s580/2026-mercedes-benz-s580-id39158251",
+      "dealer_url": "https://www.mercedes-benz-boundary.ca/en/used-inventory/mercedes-benz/s580/2026-mercedes-benz-s580-id39158251?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T16:06:26",
+      "odometer_km": 5488,
+      "condition": "used"
+    }
+  ]
+}
