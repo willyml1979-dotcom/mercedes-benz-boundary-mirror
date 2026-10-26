@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Boundary",
-  "generated_at": "2026-10-25T20:16:16",
-  "vehicle_count": 2625,
+  "generated_at": "2026-10-26T05:34:00",
+  "vehicle_count": 2614,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -228,6 +228,12 @@
       "price_currency": "CAD"
     },
     {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/e815fd804529.html",
+      "condition": "used"
+    },
+    {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
       "vin": "19UUB6F9XMA800486",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/82fb7b7fcf84.html",
@@ -284,12 +290,6 @@
       "condition": "used"
     },
     {
-      "name": "New SQ5 Technik 3.0 TFSI quattro2025 Audi",
-      "vin": "WA135AGU5S2021876",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/eaa2fac69208.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv2015 Audi",
       "vin": "WA1EFEFS7FR001722",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/2dd3f0987b7a.html",
@@ -319,12 +319,6 @@
       "name": "Q3 Progressiv 45 TFSI quattro2025 Audi",
       "vin": "WA1EECF32S1112459",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/1daab1372705.html",
-      "condition": "used"
-    },
-    {
-      "name": "Q5 Progressiv2018 Audi",
-      "vin": "WA1ENAFY2J2035455",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/89abcd1117af.html",
       "condition": "used"
     },
     {
@@ -487,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/1882e6271e5d.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/14c31f0de08a.html",
       "condition": "used"
     },
     {
@@ -816,12 +804,6 @@
       "condition": "used"
     },
     {
-      "name": "Corvette 3LT w/ Z51 Perf Pkg2025 Chevrolet",
-      "vin": "1G1YC3D41S5109218",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/39ba57e7ad18.html",
-      "condition": "used"
-    },
-    {
       "name": "Corvette Z06 Convertible 1LZ2026 Chevrolet",
       "vin": "1G1YD2D36T5602022",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/3227b041b263.html",
@@ -924,12 +906,6 @@
       "condition": "used"
     },
     {
-      "name": "Challenger SRT Hellcat2023 Dodge",
-      "vin": "2C3CDZC99PH691667",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/43882bec2adc.html",
-      "condition": "used"
-    },
-    {
       "name": "Charger GT AWD2018 Dodge",
       "vin": "2C3CDXJG6JH225756",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/5dd7f70cf237.html",
@@ -1020,12 +996,6 @@
       "condition": "used"
     },
     {
-      "name": "Escape SE - 4WD2017 Ford",
-      "vin": "1FMCU9G9XHUC29716",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/2b6403c2dd32.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/435fb66cc9be.html",
@@ -1068,12 +1038,6 @@
       "condition": "used"
     },
     {
-      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/b9b2a6807832.html",
-      "condition": "used"
-    },
-    {
       "name": "F-150 Raptor2023 Ford",
       "vin": "1FTFW1RG1PFD17727",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/cd77421770e0.html",
@@ -1095,6 +1059,12 @@
       "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2025 Ford",
       "vin": "1FTFW4L80SFC59640",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/aeebde8f151d.html",
+      "condition": "used"
+    },
+    {
+      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2026 Ford",
+      "vin": "1FTFW4L83TFA35960",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/45b49a77aa7c.html",
       "condition": "used"
     },
     {
@@ -1264,12 +1234,6 @@
       "condition": "used"
     },
     {
-      "name": "New Sierra 1500 Crew Cab 4x4 At4 Standard Box2022 GMC",
-      "vin": "3GTUUEET3NG620656",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/316e97b78362.html",
-      "condition": "used"
-    },
-    {
       "name": "New Sierra 1500 Crew Cab 4x4 At4 Short Box2022 GMC",
       "vin": "3GTPUEEL0NG532693",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/a0b028dac34e.html",
@@ -1412,12 +1376,6 @@
       "condition": "used"
     },
     {
-      "name": "Civic Sedan LX CVT2023 Honda",
-      "vin": "2HGFE2F29PH106809",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/b6b47f43b5ea.html",
-      "condition": "used"
-    },
-    {
       "name": "Civic Hatchback LX CVT2023 Honda",
       "vin": "19XFL2H50PE400123",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/43ce53cf9bae.html",
@@ -1514,18 +1472,16 @@
       "condition": "used"
     },
     {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H79SH200144",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/ca75870c90f5.html",
+      "condition": "used"
+    },
+    {
       "name": "CR-V Hybrid EX-L AWD2026 Honda",
       "vin": "2HKRS6H78TH208513",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/a3622ecd2e49.html",
       "condition": "used"
-    },
-    {
-      "name": "CR-V EX-L AWD2014 Honda",
-      "vin": "2HKRM4H7XEH131130",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/e3a9d2708d07.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "CR-V EX AWD2014 Honda",
@@ -1542,6 +1498,12 @@
       "condition": "used",
       "price": 14199.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "CR-V LX AWD2018 Honda",
+      "vin": "2HKRW2H26JH127878",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/6b75a8a536e1.html",
+      "condition": "used"
     },
     {
       "name": "CR-V LX AWD CVT2019 Honda",
@@ -1573,6 +1535,12 @@
       "condition": "used",
       "price": 10995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
+      "vin": "3CZRZ2H73PM101433",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/34ff49197cb6.html",
+      "condition": "used"
     },
     {
       "name": "HR-V LX-B FWD CVT2024 Honda",
@@ -1716,12 +1684,6 @@
       "name": "Ridgeline Touring2019 Honda",
       "vin": "5FPYK3F74KB506171",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/185914cae5d4.html",
-      "condition": "used"
-    },
-    {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F73KB501205",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/260817ee7491.html",
       "condition": "used"
     },
     {
@@ -2057,14 +2019,6 @@
       "vin": "1C4JJXFM9MW835165",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/f259692cedad.html",
       "condition": "used"
-    },
-    {
-      "name": "Wrangler Rubicon 2D Utility 4WD2012 Jeep",
-      "vin": "1C4GJWBG9CL180042",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/d8f47d339a57.html",
-      "condition": "used",
-      "price": 15887.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Wrangler JL Unlimited Sport2020 Jeep",
@@ -2438,12 +2392,6 @@
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/99d7a339f77a.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
       "vin": "SAL1L9FU1RA419064",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/9f2606897cdc.html",
       "condition": "used"
@@ -2667,12 +2615,6 @@
       "condition": "used"
     },
     {
-      "name": "GX 5502025 Lexus",
-      "vin": "JTJVBCDX8S5050673",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/df923213945e.html",
-      "condition": "used"
-    },
-    {
       "name": "IS 300 AWD2024 Lexus",
       "vin": "JTHC81F28R5054018",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/f6242b3d9214.html",
@@ -2848,12 +2790,6 @@
       "name": "3 Sport GS at2016 Mazda",
       "vin": "3MZBM1V77GM240580",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/1b49d1b76601.html",
-      "condition": "used"
-    },
-    {
-      "name": "3 Sport GT2020 Mazda",
-      "vin": "JM1BPBMM8L1169274",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/c229d991176b.html",
       "condition": "used"
     },
     {
@@ -3048,12 +2984,6 @@
     },
     {
       "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
-      "vin": "W1K5J4HB0SN520873",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/2768411ded83.html",
-      "condition": "used"
-    },
-    {
-      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
       "vin": "W1K5J4HB0SN507914",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/b63a0f5b2b0d.html",
       "condition": "used"
@@ -3238,12 +3168,6 @@
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/e4bd2c55fbea.html",
-      "condition": "used"
-    },
-    {
-      "name": "EQS580 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KCG4EB2NA012801",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/20160947616a.html",
       "condition": "used"
     },
     {
@@ -4135,12 +4059,6 @@
       "condition": "used"
     },
     {
-      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 1702025 Mercedes-Benz",
-      "vin": "W1Y4KCHY0SP795645",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/5addcb8af107.html",
-      "condition": "used"
-    },
-    {
       "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
       "vin": "W1Y40CHY7NT105181",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/5ce3e8715420.html",
@@ -4189,6 +4107,12 @@
       "condition": "used"
     },
     {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/c0cc2684b472.html",
+      "condition": "used"
+    },
+    {
       "name": "Outlander ES S-AWC2023 Mitsubishi",
       "vin": "JA4J4UA85PZ616099",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/ae30fa6190e6.html",
@@ -4204,20 +4128,6 @@
       "name": "Outlander ES S-AWC2024 Mitsubishi",
       "vin": "JA4J4UA89RZ612172",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/3c64bf0a1b9d.html",
-      "condition": "used"
-    },
-    {
-      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
-      "vin": "1N4AL3AP7FN374289",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/e74d29928514.html",
-      "condition": "used",
-      "price": 9888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ariya Premiere e-4orce2023 Nissan",
-      "vin": "JN1DF0CD5PM704103",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/b91efdca366d.html",
       "condition": "used"
     },
     {
@@ -4311,12 +4221,6 @@
       "condition": "used"
     },
     {
-      "name": "Murano Platinum AWD CVT2017 Nissan",
-      "vin": "5N1AZ2MH5HN101745",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/2cf8ec99d40c.html",
-      "condition": "used"
-    },
-    {
       "name": "Murano SL AWD CVT2019 Nissan",
       "vin": "5N1AZ2MS3KN116070",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/49949d075d86.html",
@@ -4383,21 +4287,9 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Platinum 4WD2024 Nissan",
-      "vin": "5N1DR3DF8RC270771",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/c39d8b5c328c.html",
-      "condition": "used"
-    },
-    {
       "name": "Qashqai SV AWD CVT2018 Nissan",
       "vin": "JN1BJ1CR5JW258005",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/3ac4aaf614ae.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SV2021 Nissan",
-      "vin": "JN1BJ1BW9MW446781",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/f209f8001ec4.html",
       "condition": "used"
     },
     {
@@ -4412,14 +4304,6 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/d6d13ad37f8d.html",
       "condition": "used",
       "price": 8699.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Rogue SL AWD CVT2015 Nissan",
-      "vin": "5N1AT2MV9FC818696",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/3dfe00c327a5.html",
-      "condition": "used",
-      "price": 13999.0,
       "price_currency": "CAD"
     },
     {
@@ -4789,6 +4673,12 @@
       "condition": "used"
     },
     {
+      "name": "Ascent Limited2022 Subaru",
+      "vin": "4S4WMALD9N3401521",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/4754c1351b15.html",
+      "condition": "used"
+    },
+    {
       "name": "Ascent Premier2023 Subaru",
       "vin": "4S4WMAWD1P3456883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/31de132a441c.html",
@@ -4846,12 +4736,6 @@
       "name": "Crosstrek Onyx CVT2024 Subaru",
       "vin": "JF2GUHFC1RH261477",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/83d73c008180.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2024 Subaru",
-      "vin": "JF2GUABC4RH252298",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/95f9cdddacd2.html",
       "condition": "used"
     },
     {
@@ -4987,12 +4871,6 @@
       "condition": "used"
     },
     {
-      "name": "Crosstrek Convenience CVT2026 Subaru",
-      "vin": "JF2GUHBC3T8226226",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/6e63bb5b98bf.html",
-      "condition": "used"
-    },
-    {
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDC3T8234890",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/645c617bca1c.html",
@@ -5088,6 +4966,12 @@
       "name": "Forester Limited 2.5L CVT2025 Subaru",
       "vin": "JF2SLDRC7SH445684",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/d0332cfe7e47.html",
+      "condition": "used"
+    },
+    {
+      "name": "Forester Premier 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDTC0SH566517",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/ae4a6abe67c4.html",
       "condition": "used"
     },
     {
@@ -5206,6 +5090,12 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC2TH462188",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/f4eace0b3ccb.html",
+      "condition": "used"
+    },
+    {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC5TH464579",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/48996a7b50ae.html",
       "condition": "used"
@@ -5250,6 +5140,12 @@
       "name": "Impreza 5Dr Convenience 5sp2023 Subaru",
       "vin": "4S3GTAA65P1705752",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/16f3c91daa70.html",
+      "condition": "used"
+    },
+    {
+      "name": "Impreza RS AWD2024 Subaru",
+      "vin": "JF1GUHJC0R8266343",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/3d429f233417.html",
       "condition": "used"
     },
     {
@@ -5345,6 +5241,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
+      "vin": "JF2BURHD2TY463662",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/63127f080b53.html",
+      "condition": "used"
+    },
+    {
       "name": "Solterra at-PUE ALX2023 Subaru",
       "vin": "JTMABABA6PA033700",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/b97094d1f3b7.html",
@@ -5396,6 +5298,12 @@
       "name": "Model 3 Long Range AWD W/Autopilot2022 Tesla",
       "vin": "5YJ3E1EB1NF252430",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/cc48bef9aa6f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Model 3 Long Range2024 Tesla",
+      "vin": "LRW3E7EB1RC100828",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/2ea4ef75df4a.html",
       "condition": "used"
     },
     {
@@ -5477,9 +5385,9 @@
       "condition": "used"
     },
     {
-      "name": "Corolla Hatchback XSE PACKAGE2023 Toyota",
-      "vin": "JTNK4MBE5P3197037",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/c19031dcd7e5.html",
+      "name": "Corolla Hybrid Hybrid2022 Toyota",
+      "vin": "JTDBAMDE2N3006309",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/0fc6587ea8df.html",
       "condition": "used"
     },
     {
@@ -5516,12 +5424,6 @@
     },
     {
       "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
-      "vin": "5YFBPRBE0LP012449",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/6698433af24c.html",
-      "condition": "used"
-    },
-    {
-      "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
       "vin": "5YFBPRBE5LP014567",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/a20fa531e146.html",
       "condition": "used"
@@ -5542,6 +5444,12 @@
       "name": "Corolla LE CVT2026 Toyota",
       "vin": "5YFB4MDE6TP402822",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/fe96bcfc4569.html",
+      "condition": "used"
+    },
+    {
+      "name": "GR Supra 3.0 Premium2022 Toyota",
+      "vin": "WZ1DB0C01NW051259",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/15f19c5490d0.html",
       "condition": "used"
     },
     {
@@ -5599,14 +5507,6 @@
       "vin": "JTEABFAJ4SK025544",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/11376ad79dcd.html",
       "condition": "used"
-    },
-    {
-      "name": "Matrix 5-door FWD 4A2004 Toyota",
-      "vin": "2T1KR32E14C194378",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/9f8df5d0b53e.html",
-      "condition": "used",
-      "price": 6999.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Prius c eCVT2012 Toyota",
@@ -5785,6 +5685,12 @@
       "condition": "used"
     },
     {
+      "name": "Golf R Black Edition DSG2025 Volkswagen",
+      "vin": "WVWKB7CDXSW228954",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/770a27ad24a1.html",
+      "condition": "used"
+    },
+    {
       "name": "Golf R DSG2026 Volkswagen",
       "vin": "WVWCF7CD3TW177565",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/c22e178c81ac.html",
@@ -5794,12 +5700,6 @@
       "name": "Golf Sportwagen Alltrack 1.8T Highline 6sp 4MOTION2019 Volkswagen",
       "vin": "3VWM17AU9KM522017",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/4b80414a8687.html",
-      "condition": "used"
-    },
-    {
-      "name": "GOLF Trendline2017 Volkswagen",
-      "vin": "3VW217AU7HM056054",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/eb831250165b.html",
       "condition": "used"
     },
     {
@@ -5888,6 +5788,12 @@
       "name": "XC40 T5 AWD Inscription2022 Volvo",
       "vin": "YV4162UL3N2761259",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/9118a0728a6a.html",
+      "condition": "used"
+    },
+    {
+      "name": "XC60 T6 Drive-E AWD Premier2017 Volvo",
+      "vin": "YV449MRKXH2119996",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/f5f85d5fc0f2.html",
       "condition": "used"
     },
     {
@@ -6366,12 +6272,6 @@
     },
     {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB9TR354251",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/c6b6ce4808c6.html",
-      "condition": "new"
-    },
-    {
-      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB9TR358087",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/36ac1edf63cb.html",
       "condition": "new"
@@ -6634,6 +6534,12 @@
       "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB5TN596302",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/f97afc784e01.html",
+      "condition": "new"
+    },
+    {
+      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1K5J4HB7TN600009",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/90aa547175d6.html",
       "condition": "new"
     },
     {
@@ -7406,6 +7312,12 @@
     },
     {
       "name": "E-Class AMG 53 E2027 Mercedes-Benz",
+      "vin": "W1KLF6DB8VA314674",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/da92f926ec1f.html",
+      "condition": "new"
+    },
+    {
+      "name": "E-Class AMG 53 E2027 Mercedes-Benz",
       "vin": "W1KLF6DB7VA315539",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/d5ebdf78314d.html",
       "condition": "new"
@@ -7552,6 +7464,12 @@
       "name": "EQE 320 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KEG1CB3TF076050",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/18b417d0a46c.html",
+      "condition": "new"
+    },
+    {
+      "name": "EQE 320 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KEG1CB8TF077226",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/44768fcdff10.html",
       "condition": "new"
     },
     {
@@ -7744,12 +7662,6 @@
       "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
       "vin": "W1NWH5AB6VX094666",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/7aad2e2dce1d.html",
-      "condition": "new"
-    },
-    {
-      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
-      "vin": "4JGFB6FB9VB744011",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/528d968de678.html",
       "condition": "new"
     },
     {
@@ -7978,12 +7890,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ816274",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/fa016efda216.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA AMG 35 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N5BB9TJ850327",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/d012c4cb0cf2.html",
       "condition": "new"
     },
     {
@@ -8260,6 +8166,12 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB0TJ849617",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/78454770afe2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB9TJ852385",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/6761844d2cc4.html",
       "condition": "new"
     },
     {
@@ -9170,12 +9082,6 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB0TW479906",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/a1a9a7e9f54c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB3TW492858",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/80fa9e790f40.html",
       "condition": "new"
@@ -9601,6 +9507,12 @@
       "condition": "new"
     },
     {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB2TF521760",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/8cee020ee3f0.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC AMG 43 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM8HB1TF531879",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/688f31a5fd0d.html",
@@ -9712,12 +9624,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB0TF469206",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/fcefa4393192.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB5TF482548",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/f126ab50c274.html",
       "condition": "new"
     },
     {
@@ -9974,12 +9880,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF562744",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/2d3da91648d6.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HBXTF609309",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/bc6c0602aecc.html",
       "condition": "new"
@@ -10000,12 +9900,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB2TF612219",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/3facd2d9268c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF577925",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/ac0870a22392.html",
       "condition": "new"
     },
     {
@@ -10078,12 +9972,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB4TF611752",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/60b28e5bd48c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC AMG 43 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKM8HB7TF588815",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/148387027785.html",
       "condition": "new"
     },
     {
@@ -10198,6 +10086,12 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB6TF591097",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/dbd2f49e7be1.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF592176",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/9b4167b18bc5.html",
       "condition": "new"
     },
     {
@@ -10957,12 +10851,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB4TF520836",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/5c5279586181.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ4HB3TF468480",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/177bcf2de3d9.html",
@@ -11272,6 +11160,12 @@
       "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM5GB0VF654351",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/bbd621e95f8b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB2VF650343",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/e1348c819603.html",
       "condition": "new"
     },
     {
@@ -11672,6 +11566,12 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB7VF661905",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/bf78a4adf370.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB3VF665532",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/40682f5eac87.html",
       "condition": "new"
@@ -11722,6 +11622,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB8VF670676",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/4e383fbf631e.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HBXVF661776",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/d0807b146a32.html",
       "condition": "new"
     },
     {
@@ -12162,6 +12068,12 @@
       "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
       "vin": "4JGFD6BB0TB586753",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/f1373633a703.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
+      "vin": "4JGFD6BB1TB586891",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/38bff67f377b.html",
       "condition": "new"
     },
     {
@@ -12832,6 +12744,12 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB7TB675417",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/c3d1818a247b.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB8TB601147",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/3be8a1622255.html",
       "condition": "new"
@@ -13029,12 +12947,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB7TB695022",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/dbae235f88cf.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE 450 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "4JGFD5KB3TB694973",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/ecc01724ad1c.html",
@@ -13176,6 +13088,12 @@
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB9TB697533",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/5ffe2d7cc7e4.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KBXTB699013",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/b5cc2260c498.html",
       "condition": "new"
     },
     {
@@ -13452,6 +13370,12 @@
       "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
       "vin": "4JGFD6BB2TB715754",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/f8c326938cc6.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
+      "vin": "4JGFD6BB5TB714825",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/03409f355244.html",
       "condition": "new"
     },
     {
@@ -14374,12 +14298,6 @@
     },
     {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHYXTP887986",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/025e722432a0.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY3TP887571",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/06b0a6ed923f.html",
       "condition": "new"
@@ -14910,6 +14828,12 @@
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY6TP908130",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/3c04797067c3.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY3TP901118",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/new/3c3980ede572.html",
       "condition": "new"
     },
     {
