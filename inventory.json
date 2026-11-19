@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Boundary",
-  "generated_at": "2026-11-18T08:15:39",
-  "vehicle_count": 2791,
+  "generated_at": "2026-11-18T17:13:48",
+  "vehicle_count": 2792,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/ce0b34439caf.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/34a3bac9a5e5.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/e79db3d995f7.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/da9387b92e42.html",
       "condition": "used"
     },
     {
@@ -1908,12 +1920,6 @@
       "name": "Palisade Ultimate Calligraphy 7-Passenger AWD2025 Hyundai",
       "vin": "KM8R5DGEXSU815296",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/04c818016795.html",
-      "condition": "used"
-    },
-    {
-      "name": "Palisade Preferred 8-Passenger AWD2025 Hyundai",
-      "vin": "KM8R2DGE0SU854312",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/38a26896bbf2.html",
       "condition": "used"
     },
     {

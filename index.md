@@ -1,6 +1,6 @@
 # Mercedes-Benz Boundary
 
- dealership in Vancouver. AI-readable inventory mirror, about 2791 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 2792 vehicles.
 
 - Official website: https://www.mercedes-benz-boundary.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-boundary-mirror/used/
